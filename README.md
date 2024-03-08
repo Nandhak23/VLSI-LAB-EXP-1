@@ -133,26 +133,37 @@ endmodule
 ## OUTPUT:
 ### Logic Gates:
 ### AND GATE
+![Screenshot 2024-02-17 142517](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/23d9c1be-7b74-4d07-9f78-9e972e84c57e)
 
 ### OR GATE
+![Screenshot 2024-02-17 143104](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/ebce9760-5470-4f0c-ab01-922ffab827af)
 
 ### NAND GATE
+![Screenshot 2024-02-17 144003](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/32fe8101-f152-48c9-a862-e59300657686)
 
 ### NOR GATE
+![Screenshot 2024-03-08 192907](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/fdc2d528-f76f-483f-bf99-5dbf59d24763)
 
 ### XOR GATE
+![Screenshot 2024-02-17 144411](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/7081bd26-9775-4af2-8944-0ac4edfc8a71)
 
 ### XNOR GATE
+![Screenshot 2024-02-17 144818](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/f14caf8c-34fc-4057-83f1-713dbaf232fc)
 
 ### NOT GATE
+![Screenshot 2024-02-17 145142](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/181f5b38-f922-4eb6-a97c-07be176b8d82)
 
 ### Half Adder:
+![Screenshot 2024-02-17 134320](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/980162fb-8e62-410e-a47f-ded465d68394)
 
 ### Half Subtractor:
+![Screenshot 2024-02-17 140420](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/2b635509-2702-40ca-9fb6-11e381d97f7e)
 
 ### Full Adder:
+![Screenshot 2024-02-17 141627](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/4dea3a4a-09b9-47a2-80ff-a351d84e636c)
 
 ### Full Subtractor:
+![FSUB](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/20d650b4-0c31-45b5-a16c-b176d00dc041)
 
 ### 8 Bit Ripple Carry Adder:
 
