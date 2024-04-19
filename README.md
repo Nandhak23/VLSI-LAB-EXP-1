@@ -1,4 +1,4 @@
-![image](https://github.com/Nandhak23/VLSI-LAB-EXP-1/assets/160568515/0ce2f26b-4288-4774-885d-7059d7844083)# VLSI-LAB-EXPERIMENTS
+
 ## AIM:
 To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
 
